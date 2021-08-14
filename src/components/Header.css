@@ -1,0 +1,17 @@
+.headline {
+    display: inline-block;
+}
+
+.floatRight {
+    float: right;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.headerName{
+    position: absolute;
+    top: -24px;
+}
+
