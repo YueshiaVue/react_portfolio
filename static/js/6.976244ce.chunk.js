@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_portfolio=this.webpackJsonpreact_portfolio||[]).push([[6],{35:function(e,t,s){"use strict";s.r(t);s(0);var c=s(1);t.default=function(){return Object(c.jsxs)("div",{children:[Object(c.jsx)("h1",{children:"Resume"}),Object(c.jsx)("img",{src:"/Resume.png",style:{width:"45%",marginLeft:230}})]})}}}]);
+//# sourceMappingURL=6.976244ce.chunk.js.map
