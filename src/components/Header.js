@@ -4,8 +4,10 @@ import './Header.css'
 
 function Header() {
     return (
-        <div>
-            <div className='headline '><h1 className='headerName'>Cody</h1></div> <Nav/>
+        <div style={{ 
+            backgroundImage: `url("/banner.png")`, height: 58, marginBottom: '-21px'
+          }}>
+            <div className='headline '><h1 className='headerName'>Cody Vue</h1></div> <Nav/>
         </div>
     )
 }

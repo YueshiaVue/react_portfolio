@@ -30,7 +30,7 @@ function Contact () {
             setSubmitSend(false);
         },1000)
     };
-
+    
     return (
         <div>
         { submitSend ? <div style={{marginTop:'1em'}}>Complete</div> :
